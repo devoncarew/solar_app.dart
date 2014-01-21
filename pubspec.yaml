@@ -1,0 +1,6 @@
+name: solar
+description: A 2D solar system animation.
+environment:
+  sdk: ">=1.0.0 <2.0.0"
+dependencies:
+  chrome: any
