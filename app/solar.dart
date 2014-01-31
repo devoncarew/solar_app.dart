@@ -132,9 +132,9 @@ class SolarSystem {
 }
 
 /**
- * A representation of a plantetary body.
- * This class can calculate its position for a given time index,
- * and draw itself and any child planets.
+ * A representation of a plantetary body. This class can calculate
+ * its position for a given time index, and draw itself and any child
+ * planets.
  */
 class PlanetaryBody {
   final String color;
