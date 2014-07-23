@@ -1,5 +1,6 @@
 .DS_Store
 .project
 .buildlog
-/packages
+packages
 pubspec.lock
+cache
