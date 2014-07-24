@@ -88,7 +88,7 @@ class SolarSystem {
 
     addAsteroidBelt(sun, 150);
 
-   requestRedraw();
+    requestRedraw();
   }
 
   void draw(num _) {
